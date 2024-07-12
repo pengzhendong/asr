@@ -1,0 +1,6 @@
+click
+funasr
+git+https://github.com/m-bain/whisperx.git
+git+https://github.com/wenet-e2e/wenet.git
+modelscope
+sherpa_onnx
